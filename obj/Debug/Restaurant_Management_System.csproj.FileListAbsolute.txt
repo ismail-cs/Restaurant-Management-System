@@ -1,0 +1,13 @@
+C:\Users\ismail\Documents\VS 2019\Project\Final\Restaurant Management System\Restaurant Management System\bin\Debug\Restaurant Management System.exe.config
+C:\Users\ismail\Documents\VS 2019\Project\Final\Restaurant Management System\Restaurant Management System\bin\Debug\Restaurant Management System.exe
+C:\Users\ismail\Documents\VS 2019\Project\Final\Restaurant Management System\Restaurant Management System\bin\Debug\Restaurant Management System.pdb
+C:\Users\ismail\Documents\VS 2019\Project\Final\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant Management System.csproj.AssemblyReference.cache
+C:\Users\ismail\Documents\VS 2019\Project\Final\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.Presentation_Layer.ManageFoodType.resources
+C:\Users\ismail\Documents\VS 2019\Project\Final\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.Properties.Resources.resources
+C:\Users\ismail\Documents\VS 2019\Project\Final\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant Management System.csproj.GenerateResource.cache
+C:\Users\ismail\Documents\VS 2019\Project\Final\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant Management System.csproj.CoreCompileInputs.cache
+C:\Users\ismail\Documents\VS 2019\Project\Final\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant Management System.exe
+C:\Users\ismail\Documents\VS 2019\Project\Final\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant Management System.pdb
+C:\Users\ismail\Documents\VS 2019\Project\Final\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.Presentation_Layer.ManageFoodMenu.resources
+C:\Users\ismail\Documents\VS 2019\Project\Final\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.Presentation_Layer.DashBoard.resources
+C:\Users\ismail\Documents\VS 2019\Project\Final\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.Presentation_Layer.Login.resources
